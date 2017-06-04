@@ -1,0 +1,11 @@
+ChromePath = ./driverfiles/chromedriver.exe
+firefoxpath = ./driverfiles/geckodriver.exe
+IEpath = ./driverfiles/IEDriverServer.exe
+
+URL = https://login.naukri.com/nLogin/Login.php?
+
+ObjectRepositoryExcelPath = ./ObjectRepository/ObjectRepository.xls
+objectrepositoryPropertyFilepath=./ObjectRepository/objectRepository.property
+
+TestDataPath=./TestData/TestData.xls
+DataProviderPath = ./TestData/DataProviderTestData.xls

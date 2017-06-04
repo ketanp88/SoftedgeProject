@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [DemoProject by groups]">
+  <test name="GRP-formal,Reggression,Regression,Smoke(failed)">
+    <groups>
+      <run>
+        <include name="formal"/>
+        <include name="Reggression"/>
+        <include name="Regression"/>
+        <include name="Smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="pageFactoryTestCases.LoginPageTestCases">
+        <methods>
+          <include name="Login"/>
+        </methods>
+      </class> <!-- pageFactoryTestCases.LoginPageTestCases -->
+    </classes>
+  </test> <!-- GRP-formal,Reggression,Regression,Smoke(failed) -->
+</suite> <!-- Failed suite [DemoProject by groups] -->

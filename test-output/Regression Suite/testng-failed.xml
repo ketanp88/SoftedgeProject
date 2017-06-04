@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Regression Suite]">
+  <listeners>
+    <listener class-name="commonLibrary.TestNGListner"/>
+  </listeners>
+  <test name="Regress(failed)">
+    <parameter name="browser" value="Chrome"/>
+    <groups>
+      <run>
+        <include name="Regression"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="pageFactoryTestCases.LoginPageTestCases">
+        <methods>
+          <include name="invalidLoginCredentials"/>
+          <include name="blankEmailIDLogin"/>
+          <include name="validLogin"/>
+          <include name="blankPasswordLogin"/>
+        </methods>
+      </class> <!-- pageFactoryTestCases.LoginPageTestCases -->
+    </classes>
+  </test> <!-- Regress(failed) -->
+</suite> <!-- Failed suite [Regression Suite] -->

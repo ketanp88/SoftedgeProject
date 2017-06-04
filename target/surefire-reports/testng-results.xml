@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="4845" started-at="2017-05-18T05:19:26Z" finished-at="2017-05-18T05:19:31Z">
+    <groups>
+    </groups>
+    <test name="Regression" duration-ms="4845" started-at="2017-05-18T05:19:26Z" finished-at="2017-05-18T05:19:31Z">
+      <class name="pageFactoryTestCases.tesingClass">
+        <test-method status="PASS" signature="Substract()[pri:0, instance:pageFactoryTestCases.tesingClass@79698539]" name="Substract" duration-ms="1471" started-at="2017-05-18T10:49:29Z" finished-at="2017-05-18T10:49:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Substract -->
+        <test-method status="PASS" signature="add()[pri:0, instance:pageFactoryTestCases.tesingClass@79698539]" name="add" duration-ms="64" started-at="2017-05-18T10:49:30Z" finished-at="2017-05-18T10:49:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+      </class> <!-- pageFactoryTestCases.tesingClass -->
+    </test> <!-- Regression -->
+  </suite> <!-- Suite -->
+</testng-results>

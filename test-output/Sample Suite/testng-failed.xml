@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Sample Suite]">
+  <test name="testing(failed)">
+    <parameter name="browser" value="IE"/>
+    <classes>
+      <class name="pageFactoryTestCases.LoginPageTestCases">
+        <methods>
+          <include name="browserOpen"/>
+          <include name="invalidLoginCredentials"/>
+          <include name="Close"/>
+          <include name="blankEmailIDLogin"/>
+          <include name="validLogin"/>
+          <include name="add"/>
+          <include name="blankPasswordLogin"/>
+        </methods>
+      </class> <!-- pageFactoryTestCases.LoginPageTestCases -->
+    </classes>
+  </test> <!-- testing(failed) -->
+</suite> <!-- Failed suite [Sample Suite] -->
