@@ -1143,3 +1143,21 @@
 2017-06-04 23:24:32,329 INFO  [Log] ############################# START ########################### 
 2017-06-04 23:24:32,427 INFO  [Log]  
 2017-06-04 23:31:57,574 ERROR [Log] Element not found on Web Page 
+2017-06-05 23:14:45,512 INFO  [Log] Started running Test suite : Test 
+2017-06-05 23:14:53,524 INFO  [Log] Opening Chrome browser 
+2017-06-05 23:15:20,835 INFO  [Log] Type URL https://login.naukri.com/nLogin/Login.php? 
+2017-06-05 23:15:22,745 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-06-05 23:15:23,369 INFO  [Log] ############################# START ########################### 
+2017-06-05 23:15:23,384 INFO  [Log]  
+2017-06-05 23:20:02,034 INFO  [Log] Started running Test suite : Test 
+2017-06-05 23:20:02,078 INFO  [Log] Opening Chrome browser 
+2017-06-05 23:20:12,133 INFO  [Log] Type URL https://login.naukri.com/nLogin/Login.php? 
+2017-06-05 23:20:13,929 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-06-05 23:20:14,093 INFO  [Log] ############################# START ########################### 
+2017-06-05 23:20:14,106 INFO  [Log]  
+2017-06-05 23:35:33,187 INFO  [Log] Started running Test suite : Test 
+2017-06-05 23:35:59,554 INFO  [Log] Opening Chrome browser 
+2017-06-05 23:36:13,963 INFO  [Log] Type URL https://login.naukri.com/nLogin/Login.php? 
+2017-06-05 23:36:27,478 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-06-05 23:36:27,587 INFO  [Log] ############################# START ########################### 
+2017-06-05 23:36:27,614 INFO  [Log]  

@@ -19,16 +19,18 @@ public class LoginPageTestCases extends TestBase
 	@Test(groups={"Regression"})
 	public void blankEmailIDLogin() throws Exception
 	{
+		System.out.println(getDriver().getTitle());
 		testCaseId = 2;
 		Map<String, String> testData = getTestdata(); 
 		LoginPageMethods loginm = new LoginPageMethods();
 		loginm.LoginM(testData.get("Username"),testData.get("Password"),"Login");
 		takeScreenShot();
 		Assertion.assertLocatorvalue("emailidblankerror", "Please specify your Email ID");
+		
 	}
 
 	
-	@Test(groups = {"Regression","Formal","Smoke"})
+	//@Test(groups = {"Regression","Formal","Smoke"})
 	public void blankPasswordLogin() throws Exception
 	{	
 		testCaseId = 3;
@@ -40,7 +42,7 @@ public class LoginPageTestCases extends TestBase
 	}
 	
 	
-	@Test(groups = {"Regression","Formal","Smoke"})
+	//@Test(groups = {"Regression","Formal","Smoke"})
 	public void invalidLoginCredentials() throws Exception
 	{
 		testCaseId = 4;
@@ -52,7 +54,7 @@ public class LoginPageTestCases extends TestBase
 	}
 	
 	
-	@Test(groups = {"Regression","Formal"})
+	//@Test(groups = {"Regression","Formal"})
 	public void validLogin() throws Exception
 	{
 		testCaseId = 1;

@@ -31,7 +31,7 @@ import com.google.common.io.Files;
 public class BaseClass extends ReadExcel
 {
 	
-	public WebDriver driver=null;
+	public WebDriver driver;
 	public static Map<String,String> objectrepo = getObjectRepositoryFromExcelFile();
 	public static int testCaseId;
 	public static DesiredCapabilities cap;
@@ -52,7 +52,7 @@ public class BaseClass extends ReadExcel
  * @param browserName expected values are Chrome/Firefox/IE as String for opening browser.
  * @throws MalformedURLException 
  */
-	public void browserInitialize(String browserName) throws MalformedURLException 
+	public WebDriver browserInitialize(String browserName) throws MalformedURLException 
 	{
 		WebDriver driver = null; 
 		
@@ -104,7 +104,8 @@ public class BaseClass extends ReadExcel
 		Log.info("Type URL "+getProperty("URL"));
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-		this.driver=driver;
+		
+		return driver;
 	}
 	
 	
