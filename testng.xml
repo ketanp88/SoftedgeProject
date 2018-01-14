@@ -7,8 +7,6 @@
 </listeners>
 
   <test name="Test">
-  <parameter name="browser" value="Chrome"></parameter>
-  
     <classes>
       <class name="pageFactoryTestCases.LoginPageTestCases"/>
     </classes>

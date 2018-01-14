@@ -11,13 +11,13 @@ import core.BaseClass;
 
 public class TestBase extends BaseClass{
 	
-	WebDriver driver;
 	
-	 @Parameters({"browser"})
+	
+
 	 @BeforeMethod(alwaysRun=true)
-	 public void browserOpen(String browser) throws MalformedURLException 
+	 public void browserOpen() throws MalformedURLException 
 	 {
-		 driver=browserInitialize(browser);
+		 browserInitialize();
 	 }
 	
 	 

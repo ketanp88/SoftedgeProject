@@ -1,11 +1,14 @@
-ChromePath = ./driverfiles/chromedriver.exe
-firefoxpath = ./driverfiles/geckodriver.exe
-IEpath = ./driverfiles/IEDriverServer.exe
+Application : MVTS
 
-URL = https://login.naukri.com/nLogin/Login.php?
+ChromePath : ./Resource/chromedriver.exe
+firefoxpath : ./Resource/geckodriver.exe
+IEpath : ./Resource/IEDriverServer.exe
 
-ObjectRepositoryExcelPath = ./ObjectRepository/ObjectRepository.xls
-objectrepositoryPropertyFilepath=./ObjectRepository/objectRepository.property
+BrowserName : Phantom
+URL :https://www.naukri.com/nlogin/login
 
-TestDataPath=./TestData/TestData.xls
-DataProviderPath = ./TestData/DataProviderTestData.xls
+ObjectRepositoryExcelPath : ./ObjectRepository/ObjectRepository.xls
+objectrepositoryPropertyFilepath : ./ObjectRepository/objectRepository.property
+
+TestDataPath :./TestData/TestData.xls
+DataProviderPath : ./TestData/DataProviderTestData.xls

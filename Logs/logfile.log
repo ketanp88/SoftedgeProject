@@ -1161,3 +1161,834 @@
 2017-06-05 23:36:27,478 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
 2017-06-05 23:36:27,587 INFO  [Log] ############################# START ########################### 
 2017-06-05 23:36:27,614 INFO  [Log]  
+2017-06-27 23:08:55,140 INFO  [Log] Started running Test suite : Test 
+2017-06-27 23:08:55,370 INFO  [Log] Opening Chrome browser 
+2017-06-27 23:09:34,840 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-06-27 23:09:36,630 INFO  [Log] ############################# START ########################### 
+2017-06-27 23:09:36,668 INFO  [Log]  
+2017-06-27 23:09:36,736 INFO  [Log] Test Case 'blankEmailIDLogin' is 3 
+2017-06-27 23:09:38,840 INFO  [Log] Test suite execution is completed. 
+2017-06-27 23:09:38,847 INFO  [Log] ############################# Finish ########################### 
+2017-06-27 23:09:38,874 INFO  [Log]  
+2017-06-27 23:19:04,363 INFO  [Log] Started running Test suite : Test 
+2017-06-27 23:19:04,584 INFO  [Log] Opening Chrome browser 
+2017-06-27 23:19:54,518 INFO  [Log] Type URL https://www.kiranjadhav.com/customers/index.php?m=cms&pageurl=charts 
+2017-06-27 23:19:57,722 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-06-27 23:19:57,868 INFO  [Log] ############################# START ########################### 
+2017-06-27 23:19:57,878 INFO  [Log]  
+2017-06-27 23:19:58,060 INFO  [Log] Test Case 'blankEmailIDLogin' is Failed 
+2017-06-27 23:19:58,071 INFO  [Log] ############################# END ########################### 
+2017-06-27 23:19:58,130 INFO  [Log]  
+2017-06-27 23:19:58,573 INFO  [Log] Test suite execution is completed. 
+2017-06-27 23:19:59,965 INFO  [Log] ############################# Finish ########################### 
+2017-06-27 23:19:59,995 INFO  [Log]  
+2017-06-27 23:22:02,913 INFO  [Log] Started running Test suite : Test 
+2017-06-27 23:22:02,981 INFO  [Log] Opening Chrome browser 
+2017-06-27 23:22:40,683 INFO  [Log] Type URL https://www.kiranjadhav.com/customers/index.php?m=cms&pageurl=charts 
+2017-06-27 23:22:42,947 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-06-27 23:22:43,272 INFO  [Log] ############################# START ########################### 
+2017-06-27 23:22:43,283 INFO  [Log]  
+2017-06-27 23:25:07,801 INFO  [Log] Started running Test suite : Test 
+2017-06-27 23:25:07,847 INFO  [Log] Opening Chrome browser 
+2017-06-27 23:25:42,724 INFO  [Log] Type URL https://www.kiranjadhav.com/customers/index.php?m=cms&pageurl=charts 
+2017-06-27 23:25:44,346 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-06-27 23:25:44,364 INFO  [Log] ############################# START ########################### 
+2017-06-27 23:25:44,374 INFO  [Log]  
+2017-06-27 23:26:38,135 INFO  [Log] Test Case 'blankEmailIDLogin' is Failed 
+2017-06-27 23:26:38,198 INFO  [Log] ############################# END ########################### 
+2017-06-27 23:26:38,207 INFO  [Log]  
+2017-06-27 23:26:38,914 INFO  [Log] Test suite execution is completed. 
+2017-06-27 23:26:38,924 INFO  [Log] ############################# Finish ########################### 
+2017-06-27 23:26:38,936 INFO  [Log]  
+2017-06-27 23:27:29,507 INFO  [Log] Started running Test suite : Test 
+2017-06-27 23:27:29,577 INFO  [Log] Opening Chrome browser 
+2017-06-27 23:28:17,957 INFO  [Log] Type URL https://www.kiranjadhav.com/customers/index.php?m=cms&pageurl=charts 
+2017-06-27 23:28:22,456 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-06-27 23:28:24,229 INFO  [Log] ############################# START ########################### 
+2017-06-27 23:28:24,328 INFO  [Log]  
+2017-06-27 23:51:02,862 INFO  [Log] Started running Test suite : Test 
+2017-06-27 23:51:02,922 INFO  [Log] Opening Chrome browser 
+2017-06-27 23:51:34,648 INFO  [Log] Type URL https://www.kiranjadhav.com/customers/index.php?m=cms&pageurl=charts 
+2017-06-27 23:51:37,536 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-06-27 23:51:37,562 INFO  [Log] ############################# START ########################### 
+2017-06-27 23:51:37,572 INFO  [Log]  
+2017-06-27 23:54:46,227 INFO  [Log] Test Case 'blankEmailIDLogin' is Failed 
+2017-06-27 23:54:46,237 INFO  [Log] ############################# END ########################### 
+2017-06-27 23:54:46,331 INFO  [Log]  
+2017-06-27 23:54:46,547 INFO  [Log] Test suite execution is completed. 
+2017-06-27 23:54:46,598 INFO  [Log] ############################# Finish ########################### 
+2017-06-27 23:54:46,612 INFO  [Log]  
+2017-06-27 23:54:47,094 INFO  [Log] Started running Test suite : Test 
+2017-06-27 23:54:47,153 INFO  [Log] Opening Chrome browser 
+2017-06-27 23:55:29,058 INFO  [Log] Type URL https://www.kiranjadhav.com/customers/index.php?m=cms&pageurl=charts 
+2017-06-27 23:55:31,583 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-06-27 23:55:31,611 INFO  [Log] ############################# START ########################### 
+2017-06-27 23:55:31,653 INFO  [Log]  
+2017-06-27 23:58:00,539 INFO  [Log] Started running Test suite : Test 
+2017-06-27 23:58:00,604 INFO  [Log] Opening Chrome browser 
+2017-06-27 23:58:33,755 INFO  [Log] Type URL https://www.kiranjadhav.com/customers/index.php?m=cms&pageurl=charts 
+2017-06-27 23:58:36,112 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-06-27 23:58:36,133 INFO  [Log] ############################# START ########################### 
+2017-06-27 23:58:36,156 INFO  [Log]  
+2017-06-28 00:00:11,928 INFO  [Log] Started running Test suite : Test 
+2017-06-28 00:00:11,984 INFO  [Log] Opening Chrome browser 
+2017-06-28 00:01:02,733 INFO  [Log] Type URL https://www.kiranjadhav.com/customers/index.php?m=cms&pageurl=charts 
+2017-06-28 00:01:04,436 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-06-28 00:01:04,453 INFO  [Log] ############################# START ########################### 
+2017-06-28 00:01:04,463 INFO  [Log]  
+2017-06-28 00:01:59,109 INFO  [Log] Test Case 'blankEmailIDLogin' is Failed 
+2017-06-28 00:01:59,138 INFO  [Log] ############################# END ########################### 
+2017-06-28 00:01:59,160 INFO  [Log]  
+2017-06-28 00:01:59,224 INFO  [Log] Test suite execution is completed. 
+2017-06-28 00:01:59,233 INFO  [Log] ############################# Finish ########################### 
+2017-06-28 00:01:59,251 INFO  [Log]  
+2017-06-28 00:05:34,792 INFO  [Log] Started running Test suite : Test 
+2017-06-28 00:05:34,857 INFO  [Log] Opening Chrome browser 
+2017-06-28 00:06:12,006 INFO  [Log] Type URL https://www.kiranjadhav.com/customers/index.php?m=cms&pageurl=charts 
+2017-06-28 00:06:13,787 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-06-28 00:06:14,208 INFO  [Log] ############################# START ########################### 
+2017-06-28 00:06:14,266 INFO  [Log]  
+2017-06-28 00:07:03,292 INFO  [Log] Started running Test suite : Test 
+2017-06-28 00:07:03,351 INFO  [Log] Opening Chrome browser 
+2017-06-28 00:07:51,690 INFO  [Log] Type URL https://www.kiranjadhav.com/customers/index.php?m=cms&pageurl=charts 
+2017-06-28 00:07:53,433 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-06-28 00:07:53,454 INFO  [Log] ############################# START ########################### 
+2017-06-28 00:07:53,466 INFO  [Log]  
+2017-06-28 00:11:50,274 INFO  [Log] Started running Test suite : Test 
+2017-06-28 00:11:50,443 INFO  [Log] Opening Chrome browser 
+2017-06-28 00:12:26,706 INFO  [Log] Type URL https://www.kiranjadhav.com/customers/index.php?m=cms&pageurl=charts 
+2017-06-28 00:12:28,623 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-06-28 00:12:28,655 INFO  [Log] ############################# START ########################### 
+2017-06-28 00:12:28,665 INFO  [Log]  
+2017-06-28 00:12:28,704 INFO  [Log] Test Case 'blankEmailIDLogin' is Failed 
+2017-06-28 00:12:28,714 INFO  [Log] ############################# END ########################### 
+2017-06-28 00:12:28,725 INFO  [Log]  
+2017-06-28 00:12:28,819 INFO  [Log] Test suite execution is completed. 
+2017-06-28 00:12:28,883 INFO  [Log] ############################# Finish ########################### 
+2017-06-28 00:12:29,064 INFO  [Log]  
+2017-06-28 00:14:09,058 INFO  [Log] Started running Test suite : Test 
+2017-06-28 00:14:09,104 INFO  [Log] Opening Chrome browser 
+2017-06-28 00:14:54,704 INFO  [Log] Type URL https://www.kiranjadhav.com/customers/index.php?m=cms&pageurl=charts 
+2017-06-28 00:14:58,221 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-06-28 00:14:58,249 INFO  [Log] ############################# START ########################### 
+2017-06-28 00:14:58,259 INFO  [Log]  
+2017-06-28 00:17:43,922 INFO  [Log] Test Case 'blankEmailIDLogin' is Failed 
+2017-06-28 00:17:43,961 INFO  [Log] ############################# END ########################### 
+2017-06-28 00:17:43,990 INFO  [Log]  
+2017-06-28 00:18:34,530 INFO  [Log] Started running Test suite : Test 
+2017-06-28 00:18:34,584 INFO  [Log] Opening Chrome browser 
+2017-06-28 00:19:10,292 INFO  [Log] Type URL https://www.kiranjadhav.com/customers/index.php?m=cms&pageurl=charts 
+2017-06-28 00:19:11,841 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-06-28 00:19:11,899 INFO  [Log] ############################# START ########################### 
+2017-06-28 00:19:11,920 INFO  [Log]  
+2017-06-28 03:32:17,507 INFO  [Log] Test Case  'blankEmailIDLogin' is Passed 
+2017-06-28 03:32:17,520 INFO  [Log] ############################# END ########################### 
+2017-06-28 03:32:17,554 INFO  [Log]  
+2017-06-28 03:32:17,634 INFO  [Log] Test suite execution is completed. 
+2017-06-28 03:32:17,655 INFO  [Log] ############################# Finish ########################### 
+2017-06-28 03:32:17,685 INFO  [Log]  
+2017-06-28 22:12:00,820 INFO  [Log] Started running Test suite : Test 
+2017-06-28 22:12:01,083 INFO  [Log] Opening Chrome browser 
+2017-06-28 22:12:50,050 INFO  [Log] Type URL https://www.kiranjadhav.com/customers/index.php?m=cms&pageurl=charts 
+2017-06-28 22:12:51,659 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-06-28 22:12:51,739 INFO  [Log] ############################# START ########################### 
+2017-06-28 22:12:51,748 INFO  [Log]  
+2017-06-28 23:02:29,033 INFO  [Log] Started running Test suite : Test 
+2017-06-28 23:02:29,307 INFO  [Log] Opening Chrome browser 
+2017-06-28 23:03:26,222 INFO  [Log] Type URL https://www.kiranjadhav.com/customers/index.php?m=cms&pageurl=charts 
+2017-06-28 23:03:27,805 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-06-28 23:03:27,877 INFO  [Log] ############################# START ########################### 
+2017-06-28 23:03:27,885 INFO  [Log]  
+2017-06-29 01:26:36,016 INFO  [Log] Test Case  'blankEmailIDLogin' is Passed 
+2017-06-29 01:26:36,025 INFO  [Log] ############################# END ########################### 
+2017-06-29 01:26:36,050 INFO  [Log]  
+2017-06-29 01:26:36,290 INFO  [Log] Test suite execution is completed. 
+2017-06-29 01:26:36,300 INFO  [Log] ############################# Finish ########################### 
+2017-06-29 01:26:36,334 INFO  [Log]  
+2017-06-30 23:35:14,937 INFO  [Log] Started running Test suite : Test 
+2017-06-30 23:35:15,179 INFO  [Log] Opening Chrome browser 
+2017-06-30 23:36:04,602 INFO  [Log] Type URL https://www.kiranjadhav.com/customers/index.php?m=cms&pageurl=charts 
+2017-06-30 23:36:06,960 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-06-30 23:36:07,070 INFO  [Log] ############################# START ########################### 
+2017-06-30 23:36:07,079 INFO  [Log]  
+2017-07-01 02:40:20,474 INFO  [Log] Test Case  'blankEmailIDLogin' is Passed 
+2017-07-01 02:40:20,532 INFO  [Log] ############################# END ########################### 
+2017-07-01 02:40:20,570 INFO  [Log]  
+2017-07-01 02:40:20,807 INFO  [Log] Test suite execution is completed. 
+2017-07-01 02:40:20,824 INFO  [Log] ############################# Finish ########################### 
+2017-07-01 02:40:20,831 INFO  [Log]  
+2017-07-07 23:34:24,011 INFO  [Log] Started running Test suite : Test 
+2017-07-07 23:34:24,274 INFO  [Log] Opening Chrome browser 
+2017-07-07 23:35:30,277 INFO  [Log] Type URL https://www.kiranjadhav.com/customers/index.php?m=cms&pageurl=charts 
+2017-07-07 23:35:32,255 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-07-07 23:35:32,507 INFO  [Log] ############################# START ########################### 
+2017-07-07 23:35:32,551 INFO  [Log]  
+2017-07-07 23:39:45,604 INFO  [Log] Started running Test suite : Test 
+2017-07-07 23:39:45,681 INFO  [Log] Opening Chrome browser 
+2017-07-07 23:40:34,610 INFO  [Log] Type URL https://www.kiranjadhav.com/customers/index.php?m=cms&pageurl=charts 
+2017-07-07 23:40:36,282 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-07-07 23:40:36,318 INFO  [Log] ############################# START ########################### 
+2017-07-07 23:40:36,338 INFO  [Log]  
+2017-07-08 06:34:03,825 INFO  [Log] Test Case 'blankEmailIDLogin' is Failed 
+2017-07-08 06:34:03,928 INFO  [Log] ############################# END ########################### 
+2017-07-08 06:34:03,948 INFO  [Log]  
+2017-07-08 06:34:10,191 INFO  [Log] Test suite execution is completed. 
+2017-07-08 06:34:10,231 INFO  [Log] ############################# Finish ########################### 
+2017-07-08 06:34:10,255 INFO  [Log]  
+2017-07-13 00:11:05,909 INFO  [Log] Started running Test suite : Test 
+2017-07-13 00:11:06,047 INFO  [Log] Opening Chrome browser 
+2017-07-13 00:11:58,112 INFO  [Log] Type URL https://www.kiranjadhav.com/customers/index.php?m=cms&pageurl=charts 
+2017-07-13 00:11:59,372 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-07-13 00:11:59,471 INFO  [Log] ############################# START ########################### 
+2017-07-13 00:11:59,484 INFO  [Log]  
+2017-07-16 00:10:38,038 INFO  [Log] Started running Test suite : Test 
+2017-07-16 00:10:38,154 INFO  [Log] Opening Chrome browser 
+2017-07-16 00:12:08,744 INFO  [Log] Type URL https://www.kiranjadhav.com/customers/index.php?m=cms&pageurl=charts 
+2017-07-16 00:12:10,308 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-07-16 00:12:10,402 INFO  [Log] ############################# START ########################### 
+2017-07-16 00:12:10,410 INFO  [Log]  
+2017-07-23 11:07:27,292 INFO  [Log] Started running Test suite : Test 
+2017-07-23 11:07:27,512 INFO  [Log] Opening Chrome browser 
+2017-07-23 11:07:45,469 INFO  [Log] Type URL https://login.naukri.com/nLogin/Login.php 
+2017-07-23 11:07:47,235 INFO  [Log] Test Case  'invalidEmailID' is Started 
+2017-07-23 11:07:47,325 INFO  [Log] ############################# START ########################### 
+2017-07-23 11:07:47,341 INFO  [Log]  
+2017-07-23 11:07:48,248 INFO  [Log] Type 'kjsdbvjsk' in  text box Username on Login Page. 
+2017-07-23 11:07:49,104 INFO  [Log] Type 'sdnvjksdn' in  text box Password on Login Page. 
+2017-07-23 11:07:49,983 INFO  [Log] Clicked on Sign in Button On Login Page. 
+2017-07-23 11:07:50,147 INFO  [Log] Assertion Passed. Expected: true Actual: true 
+2017-07-23 11:07:50,164 INFO  [Log] Test Case  'invalidEmailID' is Passed 
+2017-07-23 11:07:50,174 INFO  [Log] ############################# END ########################### 
+2017-07-23 11:07:50,185 INFO  [Log]  
+2017-07-23 11:07:52,341 INFO  [Log] Test suite execution is completed. 
+2017-07-23 11:07:52,355 INFO  [Log] ############################# Finish ########################### 
+2017-07-23 11:07:52,377 INFO  [Log]  
+2017-07-23 11:11:51,358 INFO  [Log] Started running Test suite : Test 
+2017-07-23 11:11:51,395 INFO  [Log] Opening Chrome browser 
+2017-07-23 11:12:00,328 INFO  [Log] Type URL https://login.naukri.com/nLogin/Login.php 
+2017-07-23 11:12:01,906 INFO  [Log] Test Case  'invalidEmailID' is Started 
+2017-07-23 11:12:01,984 INFO  [Log] ############################# START ########################### 
+2017-07-23 11:12:02,002 INFO  [Log]  
+2017-07-23 11:12:02,844 INFO  [Log] Type 'kjsdbvjsk' in  text box Username on Login Page. 
+2017-07-23 11:12:03,778 INFO  [Log] Type 'sdnvjksdn' in  text box Password on Login Page. 
+2017-07-23 11:12:04,810 INFO  [Log] Clicked on Sign in Button On Login Page. 
+2017-07-23 11:12:14,927 ERROR [Log] Element not found on Web Page 
+2017-07-23 11:12:14,962 INFO  [Log] Error message on login page. Web Control is not visible. 
+2017-07-23 11:12:14,988 INFO  [Log] Test Case 'invalidEmailID' is Failed 
+2017-07-23 11:12:14,996 INFO  [Log] ############################# END ########################### 
+2017-07-23 11:12:15,002 INFO  [Log]  
+2017-07-23 11:12:16,169 INFO  [Log] Test suite execution is completed. 
+2017-07-23 11:12:16,179 INFO  [Log] ############################# Finish ########################### 
+2017-07-23 11:12:16,183 INFO  [Log]  
+2017-07-23 11:18:27,458 INFO  [Log] Started running Test suite : Test 
+2017-07-23 11:18:27,501 INFO  [Log] Opening Chrome browser 
+2017-07-23 11:18:36,397 INFO  [Log] Type URL https://login.naukri.com/nLogin/Login.php 
+2017-07-23 11:18:38,005 INFO  [Log] Test Case  'invalidEmailID' is Started 
+2017-07-23 11:18:38,171 INFO  [Log] ############################# START ########################### 
+2017-07-23 11:18:38,181 INFO  [Log]  
+2017-11-18 01:56:06,342 INFO  [Log] Opening chrome browser 
+2017-11-18 01:56:24,040 INFO  [Log] Type URL https://login.naukri.com/nLogin/Login.php 
+2017-11-18 01:58:21,403 INFO  [Log] Opening 'chrome' browser 
+2017-11-18 01:58:31,558 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-18 01:59:15,431 INFO  [Log] Opening 'chrome' browser 
+2017-11-18 01:59:25,974 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-18 01:59:26,908 INFO  [Log] Type 'admin1234' in  text box Password on Login Page. 
+2017-11-18 01:59:27,372 INFO  [Log] Clicked on Sign in Button On Login Page. 
+2017-11-18 01:59:27,914 INFO  [Log] Assertion : PASSED. Expected: Please specify your Email ID Actual: Please specify your Email ID 
+2017-11-18 10:26:20,039 INFO  [Log] Opening 'chrome' browser 
+2017-11-18 10:27:02,446 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-18 10:27:13,093 ERROR [Log] Element not found on Web Page 
+2017-11-18 10:27:13,148 ERROR [Log] 'Sign in Button On Login Page.' Web Control is not visible. 
+2017-11-18 10:27:13,188 ERROR [Log] Login Page is not displayed 
+2017-11-18 10:27:23,310 ERROR [Log] Element not found on Web Page 
+2017-11-18 10:27:23,342 ERROR [Log] 'Error message on login page.' Web Control is not visible. 
+2017-11-18 10:29:39,125 INFO  [Log] Opening 'chrome' browser 
+2017-11-18 10:29:57,106 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-18 10:30:07,297 ERROR [Log] Element not found on Web Page 
+2017-11-18 10:30:07,336 ERROR [Log] 'Sign in Button On Login Page.' Web Control is not visible. 
+2017-11-18 10:30:07,376 ERROR [Log] Login Page is not displayed 
+2017-11-18 10:30:17,508 ERROR [Log] Element not found on Web Page 
+2017-11-18 10:30:17,543 ERROR [Log] 'Error message on login page.' Web Control is not visible. 
+2017-11-18 10:37:02,714 INFO  [Log] Started running Test suite : Test 
+2017-11-18 10:37:02,826 INFO  [Log] Opening 'chrome' browser 
+2017-11-18 10:37:19,562 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-18 10:37:19,631 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-11-18 10:37:19,683 INFO  [Log] ############################# START ########################### 
+2017-11-18 10:37:19,719 INFO  [Log]  
+2017-11-18 10:37:30,013 ERROR [Log] Element not found on Web Page 
+2017-11-18 10:37:30,056 ERROR [Log] 'Sign in Button On Login Page.' Web Control is not visible. 
+2017-11-18 10:37:30,093 ERROR [Log] Login Page is not displayed 
+2017-11-18 10:37:40,163 ERROR [Log] Element not found on Web Page 
+2017-11-18 10:37:40,201 ERROR [Log] 'Error message on login page.' Web Control is not visible. 
+2017-11-18 10:37:40,292 INFO  [Log] Test Case 'blankEmailIDLogin' is Failed 
+2017-11-18 10:37:40,331 INFO  [Log] ############################# END ########################### 
+2017-11-18 10:37:40,358 INFO  [Log]  
+2017-11-18 10:37:43,594 INFO  [Log] Test suite execution is completed. 
+2017-11-18 10:37:43,629 INFO  [Log] ############################# Finish ########################### 
+2017-11-18 10:37:43,665 INFO  [Log]  
+2017-11-18 10:46:34,766 INFO  [Log] Started running Test suite : Test 
+2017-11-18 10:46:34,883 INFO  [Log] Opening 'chrome' browser 
+2017-11-18 10:47:02,202 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-18 10:47:02,320 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-11-18 10:47:02,392 INFO  [Log] ############################# START ########################### 
+2017-11-18 10:47:02,428 INFO  [Log]  
+2017-11-18 10:47:04,383 INFO  [Log] Type 'admin1234' in text box 'Password on Login Page.' 
+2017-11-18 10:47:04,988 INFO  [Log] Clicked on 'Sign in Button On Login Page.' 
+2017-11-18 10:47:05,489 INFO  [Log] Assertion : PASSED. Expected: 'Please specify your Email ID' Actual: 'Please specify your Email ID' 
+2017-11-18 10:47:05,547 INFO  [Log] Test Case  'blankEmailIDLogin' is Passed 
+2017-11-18 10:47:05,581 INFO  [Log] ############################# END ########################### 
+2017-11-18 10:47:05,625 INFO  [Log]  
+2017-11-18 10:47:08,153 INFO  [Log] Test suite execution is completed. 
+2017-11-18 10:47:08,178 INFO  [Log] ############################# Finish ########################### 
+2017-11-18 10:47:08,202 INFO  [Log]  
+2017-11-18 10:58:24,423 INFO  [Log] Started running Test suite : Test 
+2017-11-18 10:58:24,519 INFO  [Log] Opening 'chrome' browser 
+2017-11-18 10:58:38,760 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-18 10:58:38,832 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-11-18 10:58:38,878 INFO  [Log] ############################# START ########################### 
+2017-11-18 10:58:38,906 INFO  [Log]  
+2017-11-18 10:58:39,846 INFO  [Log] Type 'admin1234' in text box 'Password on Login Page.' 
+2017-11-18 10:58:40,505 INFO  [Log] Clicked on 'Sign in Button On Login Page.' 
+2017-11-18 10:58:41,141 INFO  [Log] Assertion : PASSED. Expected: 'Please specify your Email ID' Actual: 'Please specify your Email ID' 
+2017-11-18 10:58:41,197 INFO  [Log] Test Case  'blankEmailIDLogin' is Passed 
+2017-11-18 10:58:41,241 INFO  [Log] ############################# END ########################### 
+2017-11-18 10:58:41,280 INFO  [Log]  
+2017-11-18 10:58:43,779 INFO  [Log] Opening 'chrome' browser 
+2017-11-18 10:58:55,077 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-18 10:58:55,118 INFO  [Log] Test Case  'blankPasswordLogin' is Started 
+2017-11-18 10:58:55,179 INFO  [Log] ############################# START ########################### 
+2017-11-18 10:58:55,227 INFO  [Log]  
+2017-11-18 10:58:56,552 INFO  [Log] Type 'ketan_pardeshiarun@yahoo.com' in text box 'Username on Login Page.' 
+2017-11-18 10:58:57,238 INFO  [Log] Clicked on 'Sign in Button On Login Page.' 
+2017-11-18 10:58:57,588 INFO  [Log] Assertion : PASSED. Expected: 'Please enter your Password' Actual: 'Please enter your Password' 
+2017-11-18 10:58:57,624 INFO  [Log] Test Case  'blankPasswordLogin' is Passed 
+2017-11-18 10:58:57,655 INFO  [Log] ############################# END ########################### 
+2017-11-18 10:58:57,680 INFO  [Log]  
+2017-11-18 10:58:59,015 INFO  [Log] Opening 'chrome' browser 
+2017-11-18 10:59:08,770 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-18 10:59:08,816 INFO  [Log] Test Case  'invalidLoginCredentials' is Started 
+2017-11-18 10:59:08,853 INFO  [Log] ############################# START ########################### 
+2017-11-18 10:59:08,889 INFO  [Log]  
+2017-11-18 10:59:09,864 INFO  [Log] Type 'ketan_pardesh@yahoo.com' in text box 'Username on Login Page.' 
+2017-11-18 10:59:10,452 INFO  [Log] Type 'kdsfhkajakdja' in text box 'Password on Login Page.' 
+2017-11-18 10:59:12,680 INFO  [Log] Clicked on 'Sign in Button On Login Page.' 
+2017-11-18 10:59:12,999 INFO  [Log] Assertion : PASSED. Expected: 'Invalid Details. Please check the EmailID-Password combination.' Actual: 'Invalid Details. Please check the EmailID-Password combination.' 
+2017-11-18 10:59:13,036 INFO  [Log] Test Case  'invalidLoginCredentials' is Passed 
+2017-11-18 10:59:13,061 INFO  [Log] ############################# END ########################### 
+2017-11-18 10:59:13,085 INFO  [Log]  
+2017-11-18 10:59:14,558 INFO  [Log] Opening 'chrome' browser 
+2017-11-18 10:59:29,581 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-18 10:59:29,618 INFO  [Log] Test Case  'validLogin' is Started 
+2017-11-18 10:59:29,642 INFO  [Log] ############################# START ########################### 
+2017-11-18 10:59:29,687 INFO  [Log]  
+2017-11-18 10:59:40,234 ERROR [Log] Element not found on Web Page 
+2017-11-18 10:59:40,267 ERROR [Log] 'Sign in Button On Login Page.' Web Control is not visible. 
+2017-11-18 10:59:40,597 ERROR [Log] Login Page is not displayed 
+2017-11-18 10:59:50,838 ERROR [Log] Element not found on Web Page 
+2017-11-18 10:59:50,874 ERROR [Log] 'My Naukari Home label.' Web Control is not visible. 
+2017-11-18 10:59:50,989 INFO  [Log] Test Case 'validLogin' is Failed 
+2017-11-18 10:59:51,015 INFO  [Log] ############################# END ########################### 
+2017-11-18 10:59:51,037 INFO  [Log]  
+2017-11-18 10:59:54,761 INFO  [Log] Test suite execution is completed. 
+2017-11-18 10:59:54,828 INFO  [Log] ############################# Finish ########################### 
+2017-11-18 10:59:54,899 INFO  [Log]  
+2017-11-18 11:05:17,074 INFO  [Log] Started running Test suite : Test 
+2017-11-18 11:05:17,179 INFO  [Log] Opening 'chrome' browser 
+2017-11-18 11:05:31,588 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-18 11:05:31,742 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-11-18 11:05:31,924 INFO  [Log] ############################# START ########################### 
+2017-11-18 11:05:31,959 INFO  [Log]  
+2017-11-18 11:05:55,197 INFO  [Log] Started running Test suite : Test 
+2017-11-18 11:05:55,289 INFO  [Log] Opening 'chrome' browser 
+2017-11-18 11:06:12,664 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-18 11:06:14,012 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-11-18 11:06:14,060 INFO  [Log] ############################# START ########################### 
+2017-11-18 11:06:14,093 INFO  [Log]  
+2017-11-18 11:06:24,407 ERROR [Log] Element not found on Web Page 
+2017-11-18 11:06:24,442 ERROR [Log] 'Sign in Button On Login Page.' Web Control is not visible. 
+2017-11-18 11:06:24,481 ERROR [Log] Login Page is not displayed 
+2017-11-18 11:06:34,681 ERROR [Log] Element not found on Web Page 
+2017-11-18 11:06:34,723 ERROR [Log] 'Error message on login page.' Web Control is not visible. 
+2017-11-18 11:06:34,814 INFO  [Log] Test Case 'blankEmailIDLogin' is Failed 
+2017-11-18 11:06:34,859 INFO  [Log] ############################# END ########################### 
+2017-11-18 11:06:34,897 INFO  [Log]  
+2017-11-18 11:06:38,343 INFO  [Log] Opening 'chrome' browser 
+2017-11-18 11:06:47,799 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-18 11:06:49,074 INFO  [Log] Test Case  'blankPasswordLogin' is Started 
+2017-11-18 11:06:49,113 INFO  [Log] ############################# START ########################### 
+2017-11-18 11:06:49,152 INFO  [Log]  
+2017-11-18 11:07:00,065 ERROR [Log] Element not found on Web Page 
+2017-11-18 11:07:00,094 ERROR [Log] 'Sign in Button On Login Page.' Web Control is not visible. 
+2017-11-18 11:07:00,119 ERROR [Log] Login Page is not displayed 
+2017-11-18 11:07:10,176 ERROR [Log] Element not found on Web Page 
+2017-11-18 11:07:10,199 ERROR [Log] 'Password error on login page.' Web Control is not visible. 
+2017-11-18 11:07:10,238 INFO  [Log] Test Case 'blankPasswordLogin' is Failed 
+2017-11-18 11:07:10,263 INFO  [Log] ############################# END ########################### 
+2017-11-18 11:07:10,291 INFO  [Log]  
+2017-11-18 11:07:12,661 INFO  [Log] Opening 'chrome' browser 
+2017-11-18 11:07:26,234 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-18 11:07:27,481 INFO  [Log] Test Case  'invalidLoginCredentials' is Started 
+2017-11-18 11:07:27,511 INFO  [Log] ############################# START ########################### 
+2017-11-18 11:07:27,541 INFO  [Log]  
+2017-11-18 11:07:37,606 ERROR [Log] Element not found on Web Page 
+2017-11-18 11:07:37,628 ERROR [Log] 'Sign in Button On Login Page.' Web Control is not visible. 
+2017-11-18 11:07:37,653 ERROR [Log] Login Page is not displayed 
+2017-11-18 11:07:47,699 ERROR [Log] Element not found on Web Page 
+2017-11-18 11:07:47,720 ERROR [Log] 'Error for invalid username and password.' Web Control is not visible. 
+2017-11-18 11:07:47,752 INFO  [Log] Test Case 'invalidLoginCredentials' is Failed 
+2017-11-18 11:07:47,774 INFO  [Log] ############################# END ########################### 
+2017-11-18 11:07:47,800 INFO  [Log]  
+2017-11-18 11:07:50,065 INFO  [Log] Opening 'chrome' browser 
+2017-11-18 11:08:03,514 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-18 11:08:04,812 INFO  [Log] Test Case  'validLogin' is Started 
+2017-11-18 11:08:04,875 INFO  [Log] ############################# START ########################### 
+2017-11-18 11:08:04,908 INFO  [Log]  
+2017-11-18 11:08:15,005 ERROR [Log] Element not found on Web Page 
+2017-11-18 11:08:15,025 ERROR [Log] 'Sign in Button On Login Page.' Web Control is not visible. 
+2017-11-18 11:08:15,048 ERROR [Log] Login Page is not displayed 
+2017-11-18 11:08:25,131 ERROR [Log] Element not found on Web Page 
+2017-11-18 11:08:25,153 ERROR [Log] 'My Naukari Home label.' Web Control is not visible. 
+2017-11-18 11:08:25,205 INFO  [Log] Test Case 'validLogin' is Failed 
+2017-11-18 11:08:25,235 INFO  [Log] ############################# END ########################### 
+2017-11-18 11:08:25,258 INFO  [Log]  
+2017-11-18 11:08:27,962 INFO  [Log] Test suite execution is completed. 
+2017-11-18 11:08:27,988 INFO  [Log] ############################# Finish ########################### 
+2017-11-18 11:08:28,014 INFO  [Log]  
+2017-11-18 11:11:58,621 INFO  [Log] Started running Test suite : Test 
+2017-11-18 11:11:58,714 INFO  [Log] Opening 'chrome' browser 
+2017-11-18 11:12:11,864 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-18 11:12:13,159 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-11-18 11:12:13,211 INFO  [Log] ############################# START ########################### 
+2017-11-18 11:12:13,239 INFO  [Log]  
+2017-11-18 11:12:14,501 INFO  [Log] Type 'admin1234' in text box 'Password on Login Page.' 
+2017-11-18 11:12:15,078 INFO  [Log] Clicked on 'Sign in Button On Login Page.' 
+2017-11-18 11:12:15,544 INFO  [Log] Assertion : PASSED. Expected: 'Please specify your Email ID' Actual: 'Please specify your Email ID' 
+2017-11-18 11:12:15,611 INFO  [Log] Test Case  'blankEmailIDLogin' is Passed 
+2017-11-18 11:12:15,660 INFO  [Log] ############################# END ########################### 
+2017-11-18 11:12:15,701 INFO  [Log]  
+2017-11-18 11:12:17,974 INFO  [Log] Opening 'chrome' browser 
+2017-11-18 11:12:28,208 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-18 11:12:29,575 INFO  [Log] Test Case  'blankPasswordLogin' is Started 
+2017-11-18 11:12:29,654 INFO  [Log] ############################# START ########################### 
+2017-11-18 11:12:29,753 INFO  [Log]  
+2017-11-18 11:12:40,221 ERROR [Log] Element not found on Web Page 
+2017-11-18 11:12:40,247 ERROR [Log] 'Sign in Button On Login Page.' Web Control is not visible. 
+2017-11-18 11:12:40,275 ERROR [Log] Login Page is not displayed 
+2017-11-18 11:12:50,345 ERROR [Log] Element not found on Web Page 
+2017-11-18 11:12:50,373 ERROR [Log] 'Password error on login page.' Web Control is not visible. 
+2017-11-18 11:12:50,417 INFO  [Log] Test Case 'blankPasswordLogin' is Failed 
+2017-11-18 11:12:50,444 INFO  [Log] ############################# END ########################### 
+2017-11-18 11:12:50,470 INFO  [Log]  
+2017-11-18 11:12:52,927 INFO  [Log] Opening 'chrome' browser 
+2017-11-18 11:13:02,434 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-18 11:13:03,684 INFO  [Log] Test Case  'invalidLoginCredentials' is Started 
+2017-11-18 11:13:03,733 INFO  [Log] ############################# START ########################### 
+2017-11-18 11:13:03,760 INFO  [Log]  
+2017-11-18 11:13:04,715 INFO  [Log] Type 'ketan_pardesh@yahoo.com' in text box 'Username on Login Page.' 
+2017-11-18 11:13:05,245 INFO  [Log] Type 'kdsfhkajakdja' in text box 'Password on Login Page.' 
+2017-11-18 11:13:08,916 INFO  [Log] Clicked on 'Sign in Button On Login Page.' 
+2017-11-18 11:13:09,215 INFO  [Log] Assertion : PASSED. Expected: 'Invalid Details. Please check the EmailID-Password combination.' Actual: 'Invalid Details. Please check the EmailID-Password combination.' 
+2017-11-18 11:13:09,244 INFO  [Log] Test Case  'invalidLoginCredentials' is Passed 
+2017-11-18 11:13:09,267 INFO  [Log] ############################# END ########################### 
+2017-11-18 11:13:09,291 INFO  [Log]  
+2017-11-18 11:13:10,859 INFO  [Log] Opening 'chrome' browser 
+2017-11-18 11:13:19,465 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-18 11:13:20,711 INFO  [Log] Test Case  'validLogin' is Started 
+2017-11-18 11:13:20,759 INFO  [Log] ############################# START ########################### 
+2017-11-18 11:13:20,781 INFO  [Log]  
+2017-11-18 11:13:21,575 INFO  [Log] Clicked on 'Sign in Button On Login Page.' 
+2017-11-18 11:13:31,694 ERROR [Log] Element not found on Web Page 
+2017-11-18 11:13:31,718 ERROR [Log] 'My Naukari Home label.' Web Control is not visible. 
+2017-11-18 11:13:31,756 INFO  [Log] Test Case 'validLogin' is Failed 
+2017-11-18 11:13:31,777 INFO  [Log] ############################# END ########################### 
+2017-11-18 11:13:31,799 INFO  [Log]  
+2017-11-18 11:13:34,275 INFO  [Log] Test suite execution is completed. 
+2017-11-18 11:13:34,297 INFO  [Log] ############################# Finish ########################### 
+2017-11-18 11:13:34,318 INFO  [Log]  
+2017-11-26 15:21:10,179 INFO  [Log] Opening 'chrome' browser 
+2017-11-26 15:21:35,974 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-26 15:23:15,218 INFO  [Log] Opening 'chrome' browser 
+2017-11-26 15:23:27,518 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-26 15:23:56,955 INFO  [Log] Clicked on 'Sign in Button On Login Page.' 
+2017-11-26 22:42:25,878 INFO  [Log] Opening 'chrome' browser 
+2017-11-26 22:42:44,253 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-26 22:42:46,695 INFO  [Log] Clicked on 'Sign in Button On Login Page.' 
+2017-11-26 22:42:47,076 INFO  [Log] Assertion: PASSED 'Error message on login page.' is displayed. 
+2017-11-26 22:42:50,042 INFO  [Log] Opening 'chrome' browser 
+2017-11-26 22:42:59,939 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-26 22:43:02,322 INFO  [Log] Type 'ketan_pardeshiarun@yahoo.com' in text box 'Username on Login Page.' 
+2017-11-26 22:43:02,846 INFO  [Log] Clicked on 'Sign in Button On Login Page.' 
+2017-11-26 22:43:03,371 INFO  [Log] Assertion : PASSED. Expected: 'Please enter your Password' Actual: 'Please enter your Password' 
+2017-11-26 22:43:05,095 INFO  [Log] Opening 'chrome' browser 
+2017-11-26 22:43:14,631 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-26 22:43:16,898 INFO  [Log] Type 'ketan_pardesh@yahoo.com' in text box 'Username on Login Page.' 
+2017-11-26 22:43:17,472 INFO  [Log] Type 'kdsfhkajakdja' in text box 'Password on Login Page.' 
+2017-11-26 22:43:19,255 INFO  [Log] Clicked on 'Sign in Button On Login Page.' 
+2017-11-26 22:43:19,687 INFO  [Log] Assertion : PASSED. Expected: 'Invalid Details. Please check the EmailID-Password combination.' Actual: 'Invalid Details. Please check the EmailID-Password combination.' 
+2017-11-26 22:43:21,294 INFO  [Log] Opening 'chrome' browser 
+2017-11-26 22:43:31,268 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-26 22:43:33,214 INFO  [Log] Clicked on 'Sign in Button On Login Page.' 
+2017-11-26 22:43:43,317 ERROR [Log] Element not found on Web Page 
+2017-11-26 22:43:43,360 ERROR [Log] 'My Naukari Home label.' Web Control is not visible. 
+2017-11-26 22:49:55,437 INFO  [Log] Started running Test suite : Test 
+2017-11-26 22:49:55,534 INFO  [Log] Opening 'chrome' browser 
+2017-11-26 22:50:08,463 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-26 22:50:09,755 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2017-11-26 22:50:09,829 INFO  [Log] ############################# START ########################### 
+2017-11-26 22:50:09,862 INFO  [Log]  
+2017-11-26 22:50:10,802 INFO  [Log] Clicked on 'Sign in Button On Login Page.' 
+2017-11-26 22:50:11,167 INFO  [Log] Assertion: PASSED 'Error message on login page.' is displayed. 
+2017-11-26 22:50:11,246 INFO  [Log] Test Case  'blankEmailIDLogin' is Passed 
+2017-11-26 22:50:11,281 INFO  [Log] ############################# END ########################### 
+2017-11-26 22:50:11,326 INFO  [Log]  
+2017-11-26 22:50:13,420 INFO  [Log] Opening 'chrome' browser 
+2017-11-26 22:50:20,547 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-26 22:50:21,813 INFO  [Log] Test Case  'blankPasswordLogin' is Started 
+2017-11-26 22:50:21,848 INFO  [Log] ############################# START ########################### 
+2017-11-26 22:50:21,891 INFO  [Log]  
+2017-11-26 22:50:23,189 INFO  [Log] Type 'ketan_pardeshiarun@yahoo.com' in text box 'Username on Login Page.' 
+2017-11-26 22:50:23,650 INFO  [Log] Clicked on 'Sign in Button On Login Page.' 
+2017-11-26 22:50:24,060 INFO  [Log] Assertion : PASSED. Expected: 'Please enter your Password' Actual: 'Please enter your Password' 
+2017-11-26 22:50:24,118 INFO  [Log] Test Case  'blankPasswordLogin' is Passed 
+2017-11-26 22:50:24,144 INFO  [Log] ############################# END ########################### 
+2017-11-26 22:50:24,167 INFO  [Log]  
+2017-11-26 22:50:25,729 INFO  [Log] Opening 'chrome' browser 
+2017-11-26 22:50:33,134 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-26 22:50:34,390 INFO  [Log] Test Case  'invalidLoginCredentials' is Started 
+2017-11-26 22:50:34,422 INFO  [Log] ############################# START ########################### 
+2017-11-26 22:50:34,449 INFO  [Log]  
+2017-11-26 22:50:35,437 INFO  [Log] Type 'ketan_pardesh@yahoo.com' in text box 'Username on Login Page.' 
+2017-11-26 22:50:35,948 INFO  [Log] Type 'kdsfhkajakdja' in text box 'Password on Login Page.' 
+2017-11-26 22:50:37,659 INFO  [Log] Clicked on 'Sign in Button On Login Page.' 
+2017-11-26 22:50:37,972 INFO  [Log] Assertion : PASSED. Expected: 'Invalid Details. Please check the EmailID-Password combination.' Actual: 'Invalid Details. Please check the EmailID-Password combination.' 
+2017-11-26 22:50:38,014 INFO  [Log] Test Case  'invalidLoginCredentials' is Passed 
+2017-11-26 22:50:38,038 INFO  [Log] ############################# END ########################### 
+2017-11-26 22:50:38,063 INFO  [Log]  
+2017-11-26 22:50:39,696 INFO  [Log] Opening 'chrome' browser 
+2017-11-26 22:50:52,344 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-26 22:50:53,592 INFO  [Log] Test Case  'validLogin' is Started 
+2017-11-26 22:50:53,619 INFO  [Log] ############################# START ########################### 
+2017-11-26 22:50:53,641 INFO  [Log]  
+2017-11-26 22:51:03,708 ERROR [Log] Element not found on Web Page 
+2017-11-26 22:51:03,746 ERROR [Log] 'Sign in Button On Login Page.' Web Control is not visible. 
+2017-11-26 22:51:03,770 ERROR [Log] Login Page is not displayed 
+2017-11-26 22:51:13,857 ERROR [Log] Element not found on Web Page 
+2017-11-26 22:51:13,878 ERROR [Log] 'My Naukari Home label.' Web Control is not visible. 
+2017-11-26 22:51:13,941 INFO  [Log] Test Case 'validLogin' is Failed 
+2017-11-26 22:51:13,967 INFO  [Log] ############################# END ########################### 
+2017-11-26 22:51:13,991 INFO  [Log]  
+2017-11-26 22:51:16,572 INFO  [Log] Test suite execution is completed. 
+2017-11-26 22:51:16,592 INFO  [Log] ############################# Finish ########################### 
+2017-11-26 22:51:16,613 INFO  [Log]  
+2017-11-26 22:57:37,671 INFO  [Log] Opening 'chrome' browser 
+2017-11-26 22:57:47,976 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-26 22:59:38,093 INFO  [Log] Type 'ketan_pardeshiarun@yahoo.com' in text box 'Username on Login Page.' 
+2017-11-26 22:59:49,504 INFO  [Log] Type 'Admin@12345' in text box 'Password on Login Page.' 
+2017-11-26 23:00:06,306 INFO  [Log] Clicked on 'Sign in Button On Login Page.' 
+2017-11-26 23:00:13,937 INFO  [Log] Assertion: PASSED 'My Naukari Home label.' is displayed. 
+2017-11-27 20:25:20,866 INFO  [Log] Opening 'chrome' browser 
+2017-11-27 20:25:49,987 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-11-27 20:26:50,569 ERROR [Log] Element not found on Web Page 
+2017-11-27 20:26:50,611 ERROR [Log] 'Sign in Button On Login Page.' Web Control is not visible. 
+2017-11-27 20:26:50,661 ERROR [Log] Login Page is not displayed 
+2017-11-27 20:27:22,420 INFO  [Log] Started running Test suite : Test 
+2017-11-27 20:27:22,554 INFO  [Log] Opening 'chrome' browser 
+2017-11-27 20:27:34,835 INFO  [Log] Type URL 'https://login.naukri.com/nLogin/Login.php' in browser window 
+2017-12-24 13:36:31,660 INFO  [Log] Opening 'chrome' browser 
+2017-12-24 13:36:48,069 INFO  [Log] Type URL 'http://seleniumhq.github.io/selenium/docs/api/java/index.html' in browser window 
+2017-12-24 13:37:45,879 INFO  [Log] Opening 'chrome' browser 
+2017-12-24 13:37:56,925 INFO  [Log] Type URL 'http://seleniumhq.github.io/selenium/docs/api/java/index.html' in browser window 
+2017-12-24 13:39:39,806 INFO  [Log] Opening 'chrome' browser 
+2017-12-24 13:39:50,463 INFO  [Log] Type URL 'http://seleniumhq.github.io/selenium/docs/api/java/index.html' in browser window 
+2017-12-25 09:45:12,583 INFO  [Log] Opening 'chrome' browser 
+2017-12-25 09:45:38,341 INFO  [Log] Type URL 'https://outlook.office.com/owa' in browser window 
+2017-12-25 13:38:56,078 INFO  [Log] Opening 'chrome' browser 
+2017-12-25 13:39:21,766 INFO  [Log] Type URL 'https://outlook.office.com/owa' in browser window 
+2017-12-25 13:39:33,325 ERROR [Log] Element not found on Web Page 
+2017-12-25 13:39:33,356 ERROR [Log] 'Sign in Button On Login Page.' Web Control is not visible. 
+2017-12-25 13:39:33,391 ERROR [Log] Login Page is not displayed 
+2017-12-25 13:39:43,501 ERROR [Log] Element not found on Web Page 
+2017-12-25 13:39:43,536 ERROR [Log] 'Password error on login page.' Web Control is not visible. 
+2017-12-29 20:54:57,696 ERROR [Log] Locator type written for control 'null##//*[text()='Please enter your Password']##Password error on login page.' is Invalid. 
+2017-12-29 20:55:02,689 ERROR [Log] Locator type written for control 'null##srvErr##Error for invalid username and password.' is Invalid. 
+2017-12-29 20:57:27,203 ERROR [Log] Locator type written for control 'null##emailTxt##Username on loginPage.' is Invalid. 
+2017-12-29 21:33:33,726 ERROR [Log] Locator type written for control '8.888313431E9##emailTxt##Username on loginPage.' is Invalid. 
+2017-12-29 21:33:45,997 ERROR [Log] Locator type written for control '15.0##pwd1##Password on Login Page.' is Invalid. 
+2017-12-29 21:33:53,924 ERROR [Log] Locator type written for control '10.22##//button[text()='Login']##Sign in Button On Login Page.' is Invalid. 
+2017-12-29 21:42:57,608 ERROR [Log] Locator type written for control '8.888313431E9##emailTxt##Username on loginPage.' is Invalid. 
+2018-01-10 21:44:31,168 INFO  [Log] Opening 'chrome' browser 
+2018-01-10 21:44:52,662 INFO  [Log] Type URL 'https://outlook.office.com/owa' in browser window 
+2018-01-10 21:45:04,759 ERROR [Log] Element not found on Web Page 
+2018-01-10 21:45:04,791 ERROR [Log] 'Sign in Button On Login Page.' Web Control is not visible. 
+2018-01-10 21:45:04,825 ERROR [Log] Login Page is not displayed 
+2018-01-10 21:45:04,908 ERROR [Log] Element not found on Web Page 
+2018-01-10 21:45:22,593 INFO  [Log] Opening 'chrome' browser 
+2018-01-10 21:45:36,232 INFO  [Log] Type URL 'https://outlook.office.com/owa' in browser window 
+2018-01-10 21:48:43,374 INFO  [Log] Opening 'chrome' browser 
+2018-01-10 21:49:00,736 INFO  [Log] Type URL 'https://outlook.office.com/owa' in browser window 
+2018-01-10 22:02:19,015 INFO  [Log] Opening 'chrome' browser 
+2018-01-10 22:02:33,073 INFO  [Log] Type URL 'https://outlook.office.com/owa' in browser window 
+2018-01-10 22:03:12,924 INFO  [Log] Opening 'chrome' browser 
+2018-01-10 22:03:28,391 INFO  [Log] Type URL 'https://outlook.office.com/owa' in browser window 
+2018-01-10 22:10:07,615 INFO  [Log] Opening 'chrome' browser 
+2018-01-10 22:10:24,470 INFO  [Log] Type URL 'https://outlook.office.com/owa' in browser window 
+2018-01-11 21:49:46,740 INFO  [Log] Started running Test suite : Test 
+2018-01-11 21:49:46,871 INFO  [Log] Opening 'chrome' browser 
+2018-01-11 21:50:53,242 INFO  [Log] Started running Test suite : Test 
+2018-01-11 21:50:53,436 INFO  [Log] Opening 'Phantom' browser 
+2018-01-11 21:51:15,073 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2018-01-11 21:51:15,214 INFO  [Log] ############################# START ########################### 
+2018-01-11 21:51:15,279 INFO  [Log] Test Case 'blankEmailIDLogin' is 3 
+2018-01-11 21:51:15,549 INFO  [Log] Opening 'Phantom' browser 
+2018-01-11 21:51:36,018 INFO  [Log] Test Case  'blankPasswordLogin' is Started 
+2018-01-11 21:51:36,103 INFO  [Log] ############################# START ########################### 
+2018-01-11 21:51:36,183 INFO  [Log] Test Case 'blankPasswordLogin' is 3 
+2018-01-11 21:51:36,664 INFO  [Log] Opening 'Phantom' browser 
+2018-01-11 21:51:56,775 INFO  [Log] Test Case  'getSessionID' is Started 
+2018-01-11 21:51:56,823 INFO  [Log] ############################# START ########################### 
+2018-01-11 21:51:56,907 INFO  [Log] Test Case 'getSessionID' is 3 
+2018-01-11 21:51:57,035 INFO  [Log] Opening 'Phantom' browser 
+2018-01-11 21:52:17,176 INFO  [Log] Test Case  'invalidLoginCredentials' is Started 
+2018-01-11 21:52:17,267 INFO  [Log] ############################# START ########################### 
+2018-01-11 21:52:17,381 INFO  [Log] Test Case 'invalidLoginCredentials' is 3 
+2018-01-11 21:52:17,451 INFO  [Log] Opening 'Phantom' browser 
+2018-01-11 21:53:07,129 INFO  [Log] Started running Test suite : Test 
+2018-01-11 21:53:07,273 INFO  [Log] Opening 'Chrome' browser 
+2018-01-11 21:53:23,135 INFO  [Log] Type URL 'https://outlook.office.com/owa' in browser window 
+2018-01-11 21:53:24,681 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2018-01-11 21:53:24,766 INFO  [Log] ############################# START ########################### 
+2018-01-11 21:55:30,694 INFO  [Log] Started running Test suite : Test 
+2018-01-11 21:55:30,828 INFO  [Log] Opening 'Chrome' browser 
+2018-01-11 21:55:31,119 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2018-01-11 21:55:31,184 INFO  [Log] ############################# START ########################### 
+2018-01-11 21:55:31,239 INFO  [Log] Test Case 'blankEmailIDLogin' is 3 
+2018-01-11 21:55:31,386 INFO  [Log] Opening 'Chrome' browser 
+2018-01-11 21:55:31,460 INFO  [Log] Test Case  'blankPasswordLogin' is Started 
+2018-01-11 21:55:31,502 INFO  [Log] ############################# START ########################### 
+2018-01-11 21:55:31,574 INFO  [Log] Test Case 'blankPasswordLogin' is 3 
+2018-01-11 21:55:31,700 INFO  [Log] Opening 'Chrome' browser 
+2018-01-11 21:55:31,768 INFO  [Log] Test Case  'getSessionID' is Started 
+2018-01-11 21:55:31,795 INFO  [Log] ############################# START ########################### 
+2018-01-11 21:55:31,887 INFO  [Log] Test Case 'getSessionID' is 3 
+2018-01-11 21:55:31,955 INFO  [Log] Opening 'Chrome' browser 
+2018-01-11 21:55:32,011 INFO  [Log] Test Case  'invalidLoginCredentials' is Started 
+2018-01-11 21:55:32,051 INFO  [Log] ############################# START ########################### 
+2018-01-11 21:55:32,081 INFO  [Log] Test Case 'invalidLoginCredentials' is 3 
+2018-01-11 21:55:32,140 INFO  [Log] Opening 'Chrome' browser 
+2018-01-11 21:55:32,187 INFO  [Log] Test Case  'validLogin' is Started 
+2018-01-11 21:55:32,216 INFO  [Log] ############################# START ########################### 
+2018-01-11 21:55:32,262 INFO  [Log] Test Case 'validLogin' is 3 
+2018-01-11 21:55:32,792 INFO  [Log] Test suite execution is completed. 
+2018-01-11 21:55:32,818 INFO  [Log] ############################# Finish ########################### 
+2018-01-11 21:55:32,843 INFO  [Log]  
+2018-01-11 21:56:54,565 INFO  [Log] Started running Test suite : Test 
+2018-01-11 21:56:54,693 INFO  [Log] Opening 'chrome' browser 
+2018-01-11 21:56:54,971 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2018-01-11 21:56:55,019 INFO  [Log] ############################# START ########################### 
+2018-01-11 21:56:55,071 INFO  [Log] Test Case 'blankEmailIDLogin' is 3 
+2018-01-11 21:56:55,132 INFO  [Log] Opening 'chrome' browser 
+2018-01-11 21:56:55,204 INFO  [Log] Test Case  'blankPasswordLogin' is Started 
+2018-01-11 21:56:55,234 INFO  [Log] ############################# START ########################### 
+2018-01-11 21:56:55,308 INFO  [Log] Test Case 'blankPasswordLogin' is 3 
+2018-01-11 21:56:55,394 INFO  [Log] Opening 'chrome' browser 
+2018-01-11 21:56:55,455 INFO  [Log] Test Case  'getSessionID' is Started 
+2018-01-11 21:56:55,513 INFO  [Log] ############################# START ########################### 
+2018-01-11 21:56:55,556 INFO  [Log] Test Case 'getSessionID' is 3 
+2018-01-11 21:56:55,624 INFO  [Log] Opening 'chrome' browser 
+2018-01-11 21:56:55,680 INFO  [Log] Test Case  'invalidLoginCredentials' is Started 
+2018-01-11 21:56:55,715 INFO  [Log] ############################# START ########################### 
+2018-01-11 21:56:55,751 INFO  [Log] Test Case 'invalidLoginCredentials' is 3 
+2018-01-11 21:56:55,803 INFO  [Log] Opening 'chrome' browser 
+2018-01-11 21:56:55,864 INFO  [Log] Test Case  'validLogin' is Started 
+2018-01-11 21:56:55,905 INFO  [Log] ############################# START ########################### 
+2018-01-11 21:56:55,961 INFO  [Log] Test Case 'validLogin' is 3 
+2018-01-11 21:56:56,346 INFO  [Log] Test suite execution is completed. 
+2018-01-11 21:56:56,376 INFO  [Log] ############################# Finish ########################### 
+2018-01-11 21:56:56,405 INFO  [Log]  
+2018-01-11 21:57:42,716 INFO  [Log] Started running Test suite : Test 
+2018-01-11 21:57:42,816 INFO  [Log] Opening 'chrome' browser 
+2018-01-11 21:57:54,821 INFO  [Log] Type URL 'https://www.naukri.com/nlogin/login' in browser window 
+2018-01-11 21:57:56,107 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2018-01-11 21:57:56,151 INFO  [Log] ############################# START ########################### 
+2018-01-11 21:57:56,939 INFO  [Log] Type 'asflkasfjd' in text box 'Username on Login Page.' 
+2018-01-11 21:57:57,382 INFO  [Log] Type 'lkjasdfj' in text box 'Password on Login Page.' 
+2018-01-11 21:57:57,813 INFO  [Log] Clicked on 'Sign in Button On Login Page.' 
+2018-01-11 21:57:57,896 ERROR [Log] Element not found on Web Page 
+2018-01-11 21:57:57,967 INFO  [Log] Test Case 'blankEmailIDLogin' is Failed 
+2018-01-11 21:57:58,003 INFO  [Log] ############################# END ########################### 
+2018-01-11 21:57:58,037 INFO  [Log]  
+2018-01-11 21:58:01,580 INFO  [Log] Opening 'chrome' browser 
+2018-01-11 21:58:09,239 INFO  [Log] Type URL 'https://www.naukri.com/nlogin/login' in browser window 
+2018-01-11 21:58:10,554 INFO  [Log] Test Case  'blankPasswordLogin' is Started 
+2018-01-11 21:58:10,644 INFO  [Log] ############################# START ########################### 
+2018-01-11 21:58:20,826 ERROR [Log] Element not found on Web Page 
+2018-01-11 21:58:20,851 ERROR [Log] 'Sign in Button On Login Page.' Web Control is not visible. 
+2018-01-11 21:58:20,886 ERROR [Log] Login Page is not displayed 
+2018-01-11 21:58:30,941 ERROR [Log] Element not found on Web Page 
+2018-01-11 21:58:30,980 ERROR [Log] 'Password error on login page.' Web Control is not visible. 
+2018-01-11 21:58:31,023 INFO  [Log] Test Case 'blankPasswordLogin' is Failed 
+2018-01-11 21:58:31,046 INFO  [Log] ############################# END ########################### 
+2018-01-11 21:58:31,085 INFO  [Log]  
+2018-01-11 21:58:34,543 INFO  [Log] Opening 'chrome' browser 
+2018-01-11 21:58:44,840 INFO  [Log] Type URL 'https://www.naukri.com/nlogin/login' in browser window 
+2018-01-11 21:58:46,101 INFO  [Log] Test Case  'getSessionID' is Started 
+2018-01-11 21:58:46,144 INFO  [Log] ############################# START ########################### 
+2018-01-11 21:58:46,266 INFO  [Log] Test Case  'getSessionID' is Passed 
+2018-01-11 21:58:46,300 INFO  [Log] ############################# END ########################### 
+2018-01-11 21:58:46,334 INFO  [Log]  
+2018-01-11 21:58:47,709 INFO  [Log] Opening 'chrome' browser 
+2018-01-11 21:58:59,534 INFO  [Log] Type URL 'https://www.naukri.com/nlogin/login' in browser window 
+2018-01-11 21:59:00,833 INFO  [Log] Test Case  'invalidLoginCredentials' is Started 
+2018-01-11 21:59:00,875 INFO  [Log] ############################# START ########################### 
+2018-01-11 21:59:10,948 ERROR [Log] Element not found on Web Page 
+2018-01-11 21:59:10,976 ERROR [Log] 'Sign in Button On Login Page.' Web Control is not visible. 
+2018-01-11 21:59:10,997 ERROR [Log] Login Page is not displayed 
+2018-01-11 21:59:21,047 ERROR [Log] Element not found on Web Page 
+2018-01-11 21:59:21,071 ERROR [Log] 'Error for invalid username and password.' Web Control is not visible. 
+2018-01-11 21:59:21,112 INFO  [Log] Test Case 'invalidLoginCredentials' is Failed 
+2018-01-11 21:59:21,154 INFO  [Log] ############################# END ########################### 
+2018-01-11 21:59:21,178 INFO  [Log]  
+2018-01-11 21:59:23,110 INFO  [Log] Opening 'chrome' browser 
+2018-01-11 21:59:31,430 INFO  [Log] Type URL 'https://www.naukri.com/nlogin/login' in browser window 
+2018-01-11 21:59:32,689 INFO  [Log] Test Case  'validLogin' is Started 
+2018-01-11 21:59:32,749 INFO  [Log] ############################# START ########################### 
+2018-01-11 21:59:42,810 ERROR [Log] Element not found on Web Page 
+2018-01-11 21:59:42,836 ERROR [Log] 'Sign in Button On Login Page.' Web Control is not visible. 
+2018-01-11 21:59:42,859 ERROR [Log] Login Page is not displayed 
+2018-01-11 21:59:52,908 ERROR [Log] Element not found on Web Page 
+2018-01-11 21:59:52,934 ERROR [Log] 'My Naukari Home label.' Web Control is not visible. 
+2018-01-11 21:59:52,968 INFO  [Log] Test Case 'validLogin' is Failed 
+2018-01-11 21:59:53,017 INFO  [Log] ############################# END ########################### 
+2018-01-11 21:59:53,054 INFO  [Log]  
+2018-01-11 21:59:55,191 INFO  [Log] Test suite execution is completed. 
+2018-01-11 21:59:55,253 INFO  [Log] ############################# Finish ########################### 
+2018-01-11 21:59:55,282 INFO  [Log]  
+2018-01-11 22:00:26,151 INFO  [Log] Started running Test suite : Test 
+2018-01-11 22:00:26,265 INFO  [Log] Opening 'Phantom' browser 
+2018-01-11 22:00:48,380 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2018-01-11 22:00:48,433 INFO  [Log] ############################# START ########################### 
+2018-01-11 22:00:48,512 INFO  [Log] Test Case 'blankEmailIDLogin' is 3 
+2018-01-11 22:00:48,653 INFO  [Log] Opening 'Phantom' browser 
+2018-01-11 22:01:08,774 INFO  [Log] Test Case  'blankPasswordLogin' is Started 
+2018-01-11 22:01:08,832 INFO  [Log] ############################# START ########################### 
+2018-01-11 22:01:08,897 INFO  [Log] Test Case 'blankPasswordLogin' is 3 
+2018-01-11 22:01:08,975 INFO  [Log] Opening 'Phantom' browser 
+2018-01-11 22:01:29,077 INFO  [Log] Test Case  'getSessionID' is Started 
+2018-01-11 22:01:29,115 INFO  [Log] ############################# START ########################### 
+2018-01-11 22:01:29,203 INFO  [Log] Test Case 'getSessionID' is 3 
+2018-01-11 22:01:29,395 INFO  [Log] Opening 'Phantom' browser 
+2018-01-11 22:01:49,490 INFO  [Log] Test Case  'invalidLoginCredentials' is Started 
+2018-01-11 22:01:49,533 INFO  [Log] ############################# START ########################### 
+2018-01-11 22:01:49,594 INFO  [Log] Test Case 'invalidLoginCredentials' is 3 
+2018-01-11 22:01:49,666 INFO  [Log] Opening 'Phantom' browser 
+2018-01-11 22:02:09,782 INFO  [Log] Test Case  'validLogin' is Started 
+2018-01-11 22:02:09,814 INFO  [Log] ############################# START ########################### 
+2018-01-11 22:02:09,863 INFO  [Log] Test Case 'validLogin' is 3 
+2018-01-11 22:02:10,186 INFO  [Log] Test suite execution is completed. 
+2018-01-11 22:02:10,220 INFO  [Log] ############################# Finish ########################### 
+2018-01-11 22:02:10,252 INFO  [Log]  
+2018-01-11 22:11:49,986 INFO  [Log] Started running Test suite : Test 
+2018-01-11 22:11:50,133 INFO  [Log] Opening 'Phantom' browser 
+2018-01-11 22:12:12,301 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2018-01-11 22:12:12,386 INFO  [Log] ############################# START ########################### 
+2018-01-11 22:12:12,456 INFO  [Log] Test Case 'blankEmailIDLogin' is 3 
+2018-01-11 22:12:12,768 INFO  [Log] Test suite execution is completed. 
+2018-01-11 22:12:12,815 INFO  [Log] ############################# Finish ########################### 
+2018-01-11 22:12:12,870 INFO  [Log]  
+2018-01-11 22:15:00,350 INFO  [Log] Started running Test suite : Test 
+2018-01-11 22:15:00,482 INFO  [Log] Opening 'Phantom' browser 
+2018-01-11 22:15:22,741 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2018-01-11 22:15:22,827 INFO  [Log] ############################# START ########################### 
+2018-01-11 22:15:22,883 INFO  [Log] Test Case 'blankEmailIDLogin' is 3 
+2018-01-11 22:15:23,206 INFO  [Log] Test suite execution is completed. 
+2018-01-11 22:15:23,248 INFO  [Log] ############################# Finish ########################### 
+2018-01-11 22:15:23,330 INFO  [Log]  
+2018-01-11 22:19:21,111 INFO  [Log] Started running Test suite : Test 
+2018-01-11 22:19:21,237 INFO  [Log] Opening 'Phantom' browser 
+2018-01-11 22:19:43,189 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2018-01-11 22:19:43,324 INFO  [Log] ############################# START ########################### 
+2018-01-11 22:19:43,392 INFO  [Log] Test Case 'blankEmailIDLogin' is 3 
+2018-01-11 22:19:44,049 INFO  [Log] Test suite execution is completed. 
+2018-01-11 22:19:44,093 INFO  [Log] ############################# Finish ########################### 
+2018-01-11 22:19:44,151 INFO  [Log]  
+2018-01-11 22:20:39,104 INFO  [Log] Started running Test suite : Test 
+2018-01-11 22:20:39,207 INFO  [Log] Opening 'HTMLunit' browser 
+2018-01-11 22:20:51,553 INFO  [Log] Type URL 'https://www.naukri.com/nlogin/login' in browser window 
+2018-01-11 22:20:51,647 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2018-01-11 22:20:51,707 INFO  [Log] ############################# START ########################### 
+2018-01-11 22:20:51,877 ERROR [Log] Element not found on Web Page 
+2018-01-11 22:20:51,933 INFO  [Log] Test Case 'blankEmailIDLogin' is Failed 
+2018-01-11 22:20:51,983 INFO  [Log] ############################# END ########################### 
+2018-01-11 22:20:52,021 INFO  [Log]  
+2018-01-11 22:20:52,245 INFO  [Log] Test suite execution is completed. 
+2018-01-11 22:20:52,306 INFO  [Log] ############################# Finish ########################### 
+2018-01-11 22:20:52,343 INFO  [Log]  
+2018-01-11 22:23:10,508 INFO  [Log] Started running Test suite : Test 
+2018-01-11 22:23:10,621 INFO  [Log] Opening 'HTMLunit' browser 
+2018-01-11 22:23:28,525 INFO  [Log] Type URL 'https://www.naukri.com/nlogin/login' in browser window 
+2018-01-11 22:23:28,600 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2018-01-11 22:23:28,659 INFO  [Log] ############################# START ########################### 
+2018-01-11 22:23:39,167 ERROR [Log] Element not found on Web Page 
+2018-01-11 22:23:39,212 ERROR [Log] 'Sign in Button On Login Page.' Web Control is not visible. 
+2018-01-11 22:23:39,261 ERROR [Log] Login Page is not displayed 
+2018-01-11 22:23:39,299 INFO  [Log] Test Case  'blankEmailIDLogin' is Passed 
+2018-01-11 22:23:39,331 INFO  [Log] ############################# END ########################### 
+2018-01-11 22:23:39,395 INFO  [Log]  
+2018-01-11 22:23:39,567 INFO  [Log] Test suite execution is completed. 
+2018-01-11 22:23:39,617 INFO  [Log] ############################# Finish ########################### 
+2018-01-11 22:23:39,644 INFO  [Log]  
+2018-01-11 22:25:42,192 INFO  [Log] Started running Test suite : Test 
+2018-01-11 22:25:42,302 INFO  [Log] Opening 'HTMLunit' browser 
+2018-01-11 22:25:52,905 INFO  [Log] Type URL 'https://www.naukri.com/nlogin/login' in browser window 
+2018-01-11 22:25:52,981 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2018-01-11 22:25:53,021 INFO  [Log] ############################# START ########################### 
+2018-01-11 22:26:03,189 ERROR [Log] Element not found on Web Page 
+2018-01-11 22:26:03,225 ERROR [Log] 'Sign in Button On Login Page.' Web Control is not visible. 
+2018-01-11 22:26:03,287 ERROR [Log] Login Page is not displayed 
+2018-01-11 22:26:03,339 INFO  [Log] Test Case  'blankEmailIDLogin' is Passed 
+2018-01-11 22:26:03,370 INFO  [Log] ############################# END ########################### 
+2018-01-11 22:26:03,408 INFO  [Log]  
+2018-01-11 22:26:03,580 INFO  [Log] Test suite execution is completed. 
+2018-01-11 22:26:03,617 INFO  [Log] ############################# Finish ########################### 
+2018-01-11 22:26:03,664 INFO  [Log]  
+2018-01-11 22:30:42,638 INFO  [Log] Started running Test suite : Test 
+2018-01-11 22:30:42,757 INFO  [Log] Opening 'HTMLunit' browser 
+2018-01-11 22:30:52,368 INFO  [Log] Type URL 'https://www.naukri.com/nlogin/login' in browser window 
+2018-01-11 22:30:52,452 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2018-01-11 22:30:52,500 INFO  [Log] ############################# START ########################### 
+2018-01-11 22:31:02,875 ERROR [Log] Element not found on Web Page 
+2018-01-11 22:31:02,915 ERROR [Log] 'Sign in Button On Login Page.' Web Control is not visible. 
+2018-01-11 22:31:02,951 ERROR [Log] Login Page is not displayed 
+2018-01-11 22:31:02,990 INFO  [Log] Test Case  'blankEmailIDLogin' is Passed 
+2018-01-11 22:31:03,027 INFO  [Log] ############################# END ########################### 
+2018-01-11 22:31:03,077 INFO  [Log]  
+2018-01-11 22:31:03,293 INFO  [Log] Test suite execution is completed. 
+2018-01-11 22:31:03,330 INFO  [Log] ############################# Finish ########################### 
+2018-01-11 22:31:03,362 INFO  [Log]  
+2018-01-11 22:32:09,622 INFO  [Log] Started running Test suite : Test 
+2018-01-11 22:32:09,738 INFO  [Log] Opening 'Phantom' browser 
+2018-01-11 22:32:32,029 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2018-01-11 22:32:32,078 INFO  [Log] ############################# START ########################### 
+2018-01-11 22:32:32,123 INFO  [Log] Test Case 'blankEmailIDLogin' is 3 
+2018-01-11 22:32:32,397 INFO  [Log] Test suite execution is completed. 
+2018-01-11 22:32:32,454 INFO  [Log] ############################# Finish ########################### 
+2018-01-11 22:32:32,532 INFO  [Log]  
+2018-01-11 22:33:58,658 INFO  [Log] Started running Test suite : Test 
+2018-01-11 22:33:58,772 INFO  [Log] Opening 'Phantom' browser 
+2018-01-11 22:35:51,492 INFO  [Log] Opening 'Phantom' browser 
+2018-01-11 22:41:17,963 INFO  [Log] Started running Test suite : Test 
+2018-01-11 22:41:18,133 INFO  [Log] Opening 'Phantom' browser 
+2018-01-11 22:41:43,782 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2018-01-11 22:41:43,889 INFO  [Log] ############################# START ########################### 
+2018-01-11 22:41:43,978 INFO  [Log] Test Case 'blankEmailIDLogin' is 3 
+2018-01-11 22:41:44,291 INFO  [Log] Test suite execution is completed. 
+2018-01-11 22:41:44,347 INFO  [Log] ############################# Finish ########################### 
+2018-01-11 22:41:44,388 INFO  [Log]  
+2018-01-11 22:43:40,819 INFO  [Log] Started running Test suite : Test 
+2018-01-11 22:43:40,983 INFO  [Log] Opening 'Phantom' browser 
+2018-01-11 22:43:59,495 INFO  [Log] Test Case  'blankEmailIDLogin' is Started 
+2018-01-11 22:43:59,581 INFO  [Log] ############################# START ########################### 
+2018-01-11 22:43:59,633 INFO  [Log] Test Case 'blankEmailIDLogin' is 3 
+2018-01-11 22:43:59,892 INFO  [Log] Test suite execution is completed. 
+2018-01-11 22:43:59,945 INFO  [Log] ############################# Finish ########################### 
+2018-01-11 22:43:59,986 INFO  [Log]  

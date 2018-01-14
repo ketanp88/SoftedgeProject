@@ -14,9 +14,9 @@ public class Assertion
 	{
 		try {
 			Assert.assertEquals(ob1, ob2);
-			Log.info("Assertion Pass. Expected: "+ob1+" Actual: "+ob2);
+			Log.info("Assertion : PASSED. Expected: '"+ob1+"' Actual: '"+ob2+"'");
 		} catch (Exception e) {
-			Log.error("Assertion Failure. Expected: "+ob1+" Actual: "+ob2);
+			Log.error("Assertion : FAILED Expected: '"+ob1+"' Actual: '"+ob2+"'");
 			throw e;
 		}
 	}
@@ -28,15 +28,16 @@ public class Assertion
 	 * @param value expected value of the control property.
 	 * @throws Exception
 	 */
-	public static void assertLocatorvalue(String property, String value) throws Exception
+	public static void assertLocatorvalue(Locator locator, String value) throws Exception
 	{
 		Action act = new Action();	
-		 String text = act.readText(property);
+		 String text = act.getText(locator);
 		try {
 			Assert.assertEquals(text, value);
-			Log.info("Assertion Pass. Expected: "+text+" Actual: "+value);
+			Log.info("Assertion : PASSED. Expected: '"+text+"' Actual: '"+value+"'");
+			
 		} catch (Exception e) {
-			Log.error("Assertion Failure. Expected: "+ text+" Actual: "+value);
+			Log.error("Assertion : FAILED. Expected: '"+text+"' Actual: '"+value+"'");
 			throw e;
 		}
 	}
@@ -47,53 +48,47 @@ public class Assertion
 	 * @param property control property of control for which assertion as applied. You can enter multiple locator with comma separated.
 	 * @throws Exception
 	 */
-	public static void assertDisplyed(String property) throws Exception
+	public static void assertDisplyed(Locator locator) throws Exception
 	{	
-		if(property!=null){
-		Action act = new Action();	
-		String[] str = property.split(","); 
-		for(String prop : str){
-		boolean bl=	act.isDisplayed(prop.trim());
+
+		Action act =  new Action();
+		boolean bl=	act.isDisplayed(locator);
 		try{
 			Assert.assertEquals(true, bl);
-			Log.info("Assertion Passed. Expected: "+true+" Actual: "+bl);
-			}
-		catch(Exception ex){
-			Log.error("Assertion Failure. Expected: "+true+" Actual: "+bl);
-			Log.error(act.getControlDescription(property)+" is not visible");
+			Log.info("Assertion: PASSED '"+ act.getControlDescription(locator) +"' is displayed.");
+		}
+		catch(Exception ex)
+		{
+			Log.info("Assertion: FAILED '"+ act.getControlDescription(locator) +"' is not visible.");
 			throw ex;
 			}
-		}
+		
 	  }
-	}
 	
 	
-	
+
 	/**
 	 * This method verifies whether radio button/Check box is selected or not. 
 	 * @param property Radio button/Check box control property
 	 * @throws Exception
 	 */
-	public static void assertIsRadioButtonSelected(String property) throws Exception
+	public static void assertIsRadioButtonSelected(Locator locator) throws Exception
 	{	
-		if(property!=null){
+
 		Action act = new Action();	
-		String[] str = property.split(","); 
-		for(String prop : str){
-		boolean bl=	act.isSelected(prop.trim());
+		
+		boolean bl=	act.isSelected(locator);
 		try{
 			Assert.assertEquals(true, bl);
-			Log.info("Assertion Passed. Expected: "+true+" Actual: "+bl);
-			}
-		catch(Exception ex){
-			Log.error("Assertion Failure. Expected: "+true+" Actual: "+bl);
-			Log.error(act.getControlDescription(property)+" is not visible");
+			Log.info("Verification : PASSED '"+ act.getControlDescription(locator)+"' radio button is selected");
+		}
+		catch(Exception ex)
+		{
+			Log.error("Verification : FAILED '"+ act.getControlDescription(locator)+"' radio button is not selected");
 			throw ex;
 			}
-		}
-	  }
 	}
-	
+	  
 	
 	
 	/**
@@ -101,28 +96,22 @@ public class Assertion
 	 * @param property control property of control for which assertion as applied. You can enter multiple locator with comma separated.
 	 * @throws Exception
 	 */
-	public static void assertNotDisplyed(String property) throws Exception
+	public static void assertNotDisplyed(Locator locator) throws Exception
 	{
-		if(property!=null){
+
 		Action act = new Action();	
-		String[] str = property.split(","); 
-		for(String prop : str){
-		boolean bl=	act.isDisplayed(prop.trim());
+	
+		boolean bl=	act.isDisplayed(locator);
 		try{
 			Assert.assertEquals(false, bl);
-			Log.info("Assertion Pass. Expected: "+false+" Actual: "+bl);
+			Log.info("Assertion : PASSED '"+act.getControlDescription(locator)+"' is not displayed");
 		}
 		catch(Exception ex)
 		{
-			Log.error("Assertion Failure. Expected: "+false+" Actual: "+bl);
-			Log.error(act.getControlDescription(property)+" is visible");
+			Log.info("Assertion : FAILED '"+act.getControlDescription(locator)+"' is displayed");
 			throw ex;
-		}
-	   }
+		
 	}
   }
-	
-	
-	
 	
 }

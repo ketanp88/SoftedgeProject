@@ -5,9 +5,9 @@
     <classes>
       <class name="pageFactoryTestCases.LoginPageTestCases">
         <methods>
-          <include name="browserOpen"/>
           <include name="Close"/>
-          <include name="validLogin"/>
+          <include name="browserOpen"/>
+          <include name="blankEmailIDLogin"/>
         </methods>
       </class> <!-- pageFactoryTestCases.LoginPageTestCases -->
     </classes>

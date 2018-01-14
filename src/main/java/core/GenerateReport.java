@@ -25,9 +25,9 @@ public static String runTime = getDateTime();
      	file1.mkdirs();
      }
 	 
-	 	//String Path = ".//HtmlReports//Automation Result_"+runTime+".html";
+	 	String Path = ".//HtmlReports//Automation_Result_"+runTime+".html";
 	 
-		File file = new File(".//HtmlReports//Automation Result.html");
+		File file = new File(Path);
 
 		// if file doesn't exists, then create it
 		if (!file.exists()) {
@@ -94,7 +94,7 @@ public static String runTime = getDateTime();
  
  public static String getDateTime()
  {
-	 DateFormat dateFormat = new SimpleDateFormat("dd_MM_yyyy_HH:mm:ss");
+	 DateFormat dateFormat = new SimpleDateFormat("dd_MMM_yyyy_HH_mm_ss");
 	 Date date = new Date();
 	 String dat = dateFormat.format(date); 
 	 return dat;

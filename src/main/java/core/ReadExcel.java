@@ -14,6 +14,7 @@ import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+import org.openqa.selenium.By;
 
 public class ReadExcel {
 	
@@ -30,6 +31,7 @@ public class ReadExcel {
 			inputStream = new FileInputStream(excelPath);
 			} catch (FileNotFoundException e1) {
 			e1.printStackTrace();
+			System.out.println("File is not present at location :"+excelPath);
 			Log.error("File is not present at location :"+excelPath);
 			}	        
 		
@@ -51,6 +53,62 @@ public class ReadExcel {
 	}
 	
 	
+	public static String getvalueofCell(Cell cell)
+	{
+		String value=null;	
+		 try {
+			switch (cell.getCellType()) {
+			 case Cell.CELL_TYPE_STRING:
+				 value=cell.getRichStringCellValue().toString();
+			     break;
+			 case Cell.CELL_TYPE_BOOLEAN:
+				 cell.getRichStringCellValue().toString();
+			     break;
+			 case Cell.CELL_TYPE_NUMERIC:
+			     Double db = cell.getNumericCellValue();
+			     value= Integer.toString(db.intValue()).trim();
+			     break;
+			 }
+		} catch (Exception e) {
+			value=null;
+		}
+		return value;
+	 }
+	
+	
+	
+	public static  Map<String, Locator> getObjectRepositoryFromExcel(String sheetName)
+	{
+
+		Map<String, Locator> objRepo =new LinkedHashMap<String, Locator>();
+
+				String logicalname = null;
+				Sheet sh = objectRepositoryWorkbook.getSheet(sheetName);
+				int rowcount = sh.getLastRowNum();
+
+				for (int i = 1; i <= rowcount; i++) 
+				{
+					logicalname = getvalueofCell(sh.getRow(i).getCell(0));
+					if (logicalname != null) {
+
+						String locatortype = getvalueofCell(sh.getRow(i).getCell(1));
+						String locatorvalue = getvalueofCell(sh.getRow(i).getCell(2));
+						String locatordescription = getvalueofCell(sh.getRow(i).getCell(3));
+						
+						By locator = BaseClass.getLocator(locatortype, locatorvalue);
+						
+						objRepo.put(logicalname, new Locator(locator, locatordescription));
+						
+					} else 
+					{
+						break;
+					}
+				}
+		
+	   return objRepo; 
+	}
+	
+	
 	
 	public Map<String,String> getTestdata()
 	{
@@ -65,58 +123,32 @@ public class ReadExcel {
 			Sheet sh = testDataWorkbook.getSheetAt(k);
 			int rowcount = sh.getLastRowNum();
 			String expTestCaseID = Integer.toString(BaseClass.testCaseId);
-			boolean gotdata =  false;
-     
+			boolean gotData =false;
 		for(int i=1; i<=rowcount; i++)
        {	
     	   columnCount = sh.getRow(0).getPhysicalNumberOfCells();
-    	   if(!gotdata){
-    	   for(int j=1; j<columnCount;j++)
-    	   {
-    		   String acttestcaseId = getvalueofCell(sh.getRow(i).getCell(0)); 		
-    		   if(acttestcaseId==null)
-    		   {
-    			   break;
-    		   }
-    		   if(expTestCaseID.equalsIgnoreCase(acttestcaseId))
-    		   {
-    				title = getvalueofCell(sh.getRow(0).getCell(j)); 
-					value = getvalueofCell(sh.getRow(i).getCell(j));	  
-    			    testdata.put(title, value);
-    			    gotdata = true;
-    		   }else {break;};
+    	   String acttestcaseId = getvalueofCell(sh.getRow(i).getCell(0)); 		
+    	   
+    	   if(acttestcaseId==null || gotData==true)
+		   {
+			   break;
+		   }
+    
+		   if(expTestCaseID.equalsIgnoreCase(acttestcaseId))
+		   {
+			   for(int j=1; j<columnCount;j++)
+			   {
+				   title = getvalueofCell(sh.getRow(0).getCell(j)); 
+				   value = getvalueofCell(sh.getRow(i).getCell(j));	  
+				   testdata.put(title, value);   
+			   }
+			   gotData = true;
+			   break;
     	   }
-    	  }else{break;}
        }
 	}
        return testdata; 
  }
-
-
-	
-public static String getvalueofCell(Cell cell)
-{
-	String value=null;	
-	 try {
-		switch (cell.getCellType()) {
-		 case Cell.CELL_TYPE_STRING:
-			 value=cell.getStringCellValue().trim();
-		     break;
-		 case Cell.CELL_TYPE_BOOLEAN:
-		     System.out.print(cell.getBooleanCellValue());
-		     break;
-		 case Cell.CELL_TYPE_NUMERIC:
-		     Double db = cell.getNumericCellValue();
-		     value= Integer.toString(db.intValue()).trim();
-		     break;
-		 }
-	} catch (Exception e) {
-		value=null;
-	}
-	return value;
- }
-
-
 
 
 public Object[][] getDataProviderData(String sheetName) throws Exception
@@ -138,69 +170,5 @@ public Object[][] getDataProviderData(String sheetName) throws Exception
    }	
    return arrayExcelData;
 }
-
-
-
-public static  Map<String,String> getObjectRepositoryFromExcelFile()
-{
-	Map<String,String> testdata = new LinkedHashMap<String,String>();
-	String logicalname = null;
-	String	value =null;
- 
-	int noOfSheets = objectRepositoryWorkbook.getNumberOfSheets();
-	for(int k=0; k<noOfSheets;k++)
-	{
-		Sheet sh = objectRepositoryWorkbook.getSheetAt(k);
-		int rowcount = sh.getLastRowNum();
-  
-    	for(int i=1; i<=rowcount; i++)
-    	{
-			        logicalname = getvalueofCell(sh.getRow(i).getCell(0)); 
-			        if(logicalname!=null)
-			        {
-			        	
-			String	locatortype = getvalueofCell(sh.getRow(i).getCell(1));
-			String	locatorvalue = getvalueofCell(sh.getRow(i).getCell(2));
-			String	locatordescription = getvalueofCell(sh.getRow(i).getCell(3));
-			
-					value=locatortype+"##"+locatorvalue+"##"+locatordescription;
-			    	testdata.put(logicalname, value);
-			    	value=null;
-			    }
-			        else{break;}
-    	}
-	}
-   return testdata; 
-}
-
-/**
- * This method reads the objects from property file and returns Map.
- * @return Map of Objects
- */
-public static Map<String, String> getObjectRepositoryFromPropertyFile()
-{
-	Map<String, String> objects = new HashMap<String, String>();
-	try {
-		BaseClass bs = new BaseClass();
-		FileInputStream propfile = new FileInputStream(bs.getProperty("objectrepositoryPropertyFilepath"));
-		Properties properties = new Properties();
-		properties.load(propfile);
-		propfile.close();
-		Enumeration<Object> enuKeys = properties.keys();
-		while (enuKeys.hasMoreElements()) 
-		{
-			String key = (String) enuKeys.nextElement();
-			String value = properties.getProperty(key);
-			objects.put(key, value);
-		}
-	} catch (FileNotFoundException e) {
-		e.printStackTrace();
-	} catch (IOException e) {
-		e.printStackTrace();
-	}
-	return objects;
-}
-	
-
 
 }

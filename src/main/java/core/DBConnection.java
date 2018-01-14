@@ -9,19 +9,19 @@ public class DBConnection {
 	
 	
 	
-public void GetDBConnection() throws Exception
+public void GetDBConnection(String query) throws Exception
 {
 	   final String DB_URL = "jdbc:mysql://localhost/DBName";
 	   final String USER = "username";
 	   final String PASS = "password";
 
-	   String sql = "SELECT id, first, last, age FROM Employees";
+	 //  String sql = "SELECT id, first, last, age FROM Employees";
 
 	   Class.forName("com.mysql.jdbc.Driver");
 
 	   Connection  conn = DriverManager.getConnection(DB_URL,USER,PASS);
 	   Statement stmt = conn.createStatement();
-	   ResultSet rs = stmt.executeQuery(sql);
+	   ResultSet rs = stmt.executeQuery(query);
 
 	 while(rs.next())
 	     {

@@ -5,16 +5,12 @@
     <listener class-name="core.TestNGListner"/>
   </listeners>
   <test name="Test(failed)">
-    <parameter name="browser" value="Chrome"/>
     <classes>
       <class name="pageFactoryTestCases.LoginPageTestCases">
         <methods>
           <include name="Close"/>
           <include name="browserOpen"/>
-          <include name="invalidLoginCredentials"/>
           <include name="blankEmailIDLogin"/>
-          <include name="validLogin"/>
-          <include name="blankPasswordLogin"/>
         </methods>
       </class> <!-- pageFactoryTestCases.LoginPageTestCases -->
     </classes>
